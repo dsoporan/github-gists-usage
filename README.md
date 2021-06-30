@@ -11,4 +11,4 @@ Functionalities:
 
 - Gist contents: When clicking one of the Gists, display the content of the files.
 
-**For UI I have used the Framework React-Semantic-Ui. For the last updated date of the gists I have used the 'react-itme-ago' component.**
+**For UI I have used the Framework React-Semantic-UI. For the last updated date of the gists I have used the 'react-time-ago' component.**
