@@ -1,0 +1,26 @@
+.navbar {
+  padding: 20px;
+  background-color: #24292e;
+  color: white;
+}
+
+.search {
+  position: relative;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.avatar {
+  position: relative;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.gists-list {
+  position: relative;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
